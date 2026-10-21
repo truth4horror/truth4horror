@@ -12,7 +12,7 @@ Main abhi coding aur GitHub seekh raha hoon, aur apna tech YouTube channel bana 
 - HTML, CSS aur Python
 
 ## 📺 Mera YouTube channel
-## Truth4Horror on YouTube https://www.youtube.com/@Truth4horror
+# Truth4Horror on YouTube https://www.youtube.com/@Truth4horror
 
 ## 📬 Mujhse connect karo
 Comments mein ya YouTube pe message karo!
