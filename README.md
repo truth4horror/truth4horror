@@ -12,7 +12,7 @@ Main abhi coding aur GitHub seekh raha hoon, aur apna tech YouTube channel bana 
 - HTML, CSS aur Python
 
 ## 📺 Mera YouTube channel
-[Truth4Horror on YouTube]([YAHAN-APNE-CHANNEL-KA-LINK](https://studio.youtube.com/channel/UCZ23Ln7BDHUEFZj_lwT7a0w))
+https://studio.youtube.com/channel/UCZ23Ln7BDHUEFZj_lwT7a0w
 
 ## 📬 Mujhse connect karo
 Comments mein ya YouTube pe message karo!
