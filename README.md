@@ -1,14 +1,18 @@
-Hi there 👋
-**truth4horror/truth4horror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, main Truth4Horror 👋
 
-Here are some ideas to get you started:
+Main abhi coding aur GitHub seekh raha hoon, aur apna tech YouTube channel bana raha hoon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Mera focus
+- GitHub aur Git seekhna
+- Claude ke saath projects banana
+- Seekhte hue videos banana (Building in public)
+
+## 🌱 Abhi kya seekh raha hoon
+- Git aur GitHub basics
+- HTML, CSS aur Python
+
+## 📺 Mera YouTube channel
+[Truth4Horror on YouTube](YAHAN-APNE-CHANNEL-KA-LINK)
+
+## 📬 Mujhse connect karo
+Comments mein ya YouTube pe message karo!
